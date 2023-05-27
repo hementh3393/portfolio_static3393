@@ -1,0 +1,113 @@
+.header{
+    background: #3b5998;
+    width:100%;
+    height: 85px;
+}
+body{
+    margin: 0;
+    font-family: helvetica neue,helveticaa,arial,sans-serif;
+}
+.logo{
+    width:50%;
+    padding-top: 15px;
+    float:left;
+}
+.login{
+    width: 50%;
+    float:left;
+
+}
+.logo-text{
+    color:#fff;
+    font-size: 35px;
+    font-weight:bold ;
+    text-decoration: none;
+    margin-left: 100px;
+}
+.loginlabel{
+    color:#fff;
+    font-size: 11px;
+}
+.logincontrols{
+    padding-left: 115px;
+}
+.forgotten{
+color:#9cb4d8;
+font-size: 11px;
+text-decoration:none;
+}
+.button{
+    background-color: #4267b2;
+    border-color: #29487d;
+    height: 20px;
+    color:#fff;
+    cursor:pointer;
+}
+.button:hover{
+    background: #29487d;
+}
+.leftsection{
+    width:715px;
+    float: left;
+    padding-left: 134px;
+    padding-top: 52px;
+}
+.mainbody{
+    background: linear-gradient(white,#d3d8e8);
+    width: 100%;
+    height: 500px;
+}
+.image{
+ width: 523px;
+}
+.para{
+    font-weight: bold;
+    font-size: 21px;
+}
+.rightsection{
+    padding-left: 20px;
+    float:left;   
+     width: 555px;
+    height: 700px
+}
+.line1{
+    width: 100%;
+    font-size: 33px;
+    font-weight: bold;
+    color: black;
+}
+.line2{
+    margin-top: -26px;
+    padding-left: 10px;
+}
+.tablecreate{
+      border-spacing: 10px;
+      padding-left: -15px;
+}
+.bday{
+    padding-top: 35px;
+    color: gray;
+    font-size: 14px;
+    padding-left: 10px;
+    margin-top: -18px;
+}
+.form{
+    border-radius: 61px;
+    padding-left: 10px;
+    margin-top: -25px;
+}
+.gender{
+    margin-top: -25px;
+    padding-left: 6px;
+}
+.but{
+    background: #59ab6d;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    margin-left: 130px;
+    margin-top: 12px;
+}
+.dob{
+    
+}
